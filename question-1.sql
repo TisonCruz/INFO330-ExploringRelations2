@@ -2,4 +2,4 @@
 
 SELECT FirstName, LastName, InvoiceId, InvoiceDate, BillingCountry, Country
 FROM customers, invoices
-WHERE Country = 'Brazil'
+WHERE Country = 'Brazil';
